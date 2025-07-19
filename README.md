@@ -1,9 +1,12 @@
 ## Hi there 👋
 
+Aspiring Business Analyst with 2+ years of hands-on experience in data analytics and business intelligence across marketing, urban planning, and customer segmentation domains. Currently pursuing an MSc in Artificial Intelligence & Data Science at the University of Hull, with a strong foundation in SQL, Python, Tableau, and machine learning models.
+
+Known for translating raw data into actionable insights that drive performance—boosted marketing ROI by 15% through strategic targeting and automation. Passionate about solving real-world problems using data, from building churn prediction models for streaming services to recommending housing and transport policies through census analytics. Driven, collaborative, and constantly learning to stay ahead in the fast-evolving data landscape.
+
 <!--
 **BuildwithOfuje/BuildwithOfuje** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
